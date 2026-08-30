@@ -1,0 +1,162 @@
+Conditional probability
+Bayes' theorem
+Expectation and variance
+Covariance/correlation
+Conditional expectation
+Common distributions
+Law of large numbers
+Central limit theorem
+Random variables and transformations
+Markov chains
+Poisson processes
+Brownian motion
+Martingales
+Basic stochastic processes
+Maximum likelihood
+Bayesian inference
+Estimators and bias
+Confidence intervals
+Hypothesis testing
+Regression
+Least squares
+Regularization
+Resampling/bootstrap
+Experimental design
+Multiple testing
+Model selection
+Time-series basics
+Statistical significance vs economic significance
+Autocorrelation
+Stationarity
+AR/MA/ARIMA
+Heteroskedasticity
+Factor models
+Principal component analysis
+Kalman filters
+
+
+Python
+NumPy
+SciPy
+Pandas
+Matplotlib
+Jupyter
+Git
+
+Monte Carlo simulations
+Numerical optimization
+Statistical tests
+Regression
+Time-series analysis
+Matrix operations
+Data cleaning
+Backtesting
+Visualization
+
+
+
+Stocks
+Bonds
+Futures
+Options
+ETFs
+Market makers
+Bid/ask spreads
+Order books
+Returns
+Volatility
+Leverage
+Short selling
+Basic portfolio theory
+Arbitrage
+Efficient markets
+Transaction costs
+
+
+
+Project 1 — Statistical arbitrage
+Take a set of related assets.
+Ask:
+
+Can I identify statistically meaningful relationships between their returns?
+Then investigate:
+Correlation
+Cointegration
+Stationarity
+Mean reversion
+Hypothesis testing
+Out-of-sample performance
+Transaction costs
+Multiple testing
+Sharpe ratio
+Drawdowns
+The important part is not whether you discover a profitable strategy.
+The important part is demonstrating that you understand how to avoid fooling yourself.
+
+Project 2 — Stochastic processes
+This would fit your physics background beautifully.
+For example:
+
+Study whether simple stochastic-process models can describe some feature of financial prices.
+You could investigate:
+Random walks
+Brownian motion
+Ornstein–Uhlenbeck processes
+First-passage times
+Mean reversion
+Parameter estimation
+Monte Carlo simulation
+You already have the mathematical instincts for this.
+Project 3 — Market microstructure
+This is one I'd particularly recommend if you want quant research rather than ML.
+Study an order book.
+
+Investigate:
+
+Bid/ask dynamics
+Spread
+Market orders vs limit orders
+Order-book imbalance
+Price impact
+Trade arrival processes
+Short-term predictability
+You can formulate hypotheses, collect data, statistically test them, and write a research report.
+
+
+
+
+overfitting, selection bias, look-ahead bias, survivorship bias, data snooping, leakage, nonstationarity, and multiple testing.
+
+
+
+
+Expected number of trials until an event
+Conditional probability
+Random walks
+Card/coin problems
+Order statistics
+Bayes problems
+Expected maxima/minima
+Stopping times
+Combinatorics
+
+
+
+
+Eigenvalues/eigenvectors
+Orthogonality
+Positive-definite matrices
+Quadratic forms
+Matrix decompositions
+SVD
+PCA
+
+
+
+Arrays
+Hash maps
+Sorting
+Searching
+Trees/graphs at a basic level
+Dynamic programming
+Complexity analysis
