@@ -160,3 +160,59 @@ Searching
 Trees/graphs at a basic level
 Dynamic programming
 Complexity analysis
+
+
+
+
+Quantitative researcher - Quantitative developer - Quantitative trader - Quant/risk modeling - Traditional investment analyst -Investment banking
+
+Phase 1 — Weeks 1–2: Learn what finance actually is
+You need a basic vocabulary:
+Stocks and bonds
+Options
+Futures
+ETFs
+Interest rates
+Yield curves
+Volatility
+Arbitrage
+Market making
+Portfolio theory
+Risk
+Efficient markets
+
+
+Phase 2 — Weeks 3–5: Start the mathematics
+
+Probability
+	Random variables
+	Conditional probability
+	Expectation
+	Variance/covariance
+	Distributions
+	Law of large numbers
+	Central limit theorem
+Statistics
+	Regression
+	Hypothesis testing
+	Maximum likelihood
+	Time series
+Stochastic processes
+	Random walks
+	Brownian motion
+	Markov processes
+-> stochastic calculus and Itô’s lemma.
+
+Phase 3 — Weeks 6–8: Python + markets
+Small projects.
+Download historical stock data → calculate returns → estimate volatility → construct a portfolio → test a simple strategy → analyze the results.
+
+Phase 4 — Weeks 9–12: Try the actual quant problems
+	Probability puzzles
+	Statistics problems
+	Expected-value problems
+	Brain teasers
+	Mental math
+	Optimization problems
+	Basic algorithmic programming problems
+-> quant interview questions.
